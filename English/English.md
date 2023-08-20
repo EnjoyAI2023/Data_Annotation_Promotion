@@ -3,8 +3,8 @@
 * [中文 Chinese](../README.md)
 * [英文 English]()
 
-## E-Mails
-
+## E-Mails（Please indicate EnjoyAI by e-mail）
+* tingting.zhao@knockknock.cn
 ## Contents
   - [1、Detect Bounding Box](#1a)
   - [2、Semantic Segmentation](#2a)
@@ -17,13 +17,24 @@
 ### Choose the right AI big model data service provider to accelerate your AI application development. We will provide you with high-quality data acquisition, cleaning, labeling, and large model training services to make your AI applications faster, more accurate, and more professional. Customized service model to meet your specific needs, improve your business efficiency and competitiveness. Choose us, choose the industry's leading AI data service provider.
 
 # Our Advantages
-## 1. Data collection
+
+## 1.annotation task docking, can help sort out the needs, provide annotation solutions.
+
+## 2. support short and fast labeling tasks,
+
+* Short: Fast and flexible, we can support as little as "1 person/day", more than "10 people/day" standard tasks, for a large number of tasks can be completed within a week to complete the deployment of 200 annotated personnel.
+
+* Ping: Stable quality assurance, we have professional label quality inspection support.
+
+* Fast: After the annotation data is completed and the quality inspection is completed, the fastest return to the customer.
+
+## 3. data collection
 
 * The platform supports the collection, acquisition, recording, preservation and processing of various types of data for subsequent data analysis, data mining, machine learning and artificial intelligence. By optimizing the efficiency of the platform, reducing the collection cost, machine-assisted collection and other means, the cost is reduced by more than 50%.
 
 
 
-## 2.customized annotation for different tasks
+## 4.customized annotation for different tasks
 
 * A) Supports the configuration of points, straight lines, dashed lines, Bezier curves, rectangles, polygons, labels, and can be configured for function expansion.
 
@@ -35,25 +46,16 @@
 
 
 
-## 3.intelligent assisted analysis annotation
+## 5.intelligent assisted analysis annotation
 
 * Use machine learning algorithms to analyze and process collected, labeled, and cleaned data to build models for more accurate pre-labeling. The auxiliary manual for semi-automatic labeling, classification or annotation improves the labeling efficiency by more than 60%.
 
-
-
-## 4. flexible task mechanism
+## 6. flexible task mechanism
 
 * We can serve a variety of tasks to mark tasks.
 
 
-
-## 5. Accumulation of data sets
-
-* There is... data accumulation
-
-
-
-## 6. data use examples of support and consulting services
+## 7. data use examples of support and consulting services
 
 * Deep learning for routine tasks uses framework adaptations
 
